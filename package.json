@@ -1,0 +1,15 @@
+{
+  "name": "rollup-reexport-default-conflict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rollup": "./node_modules/rollup/bin/rollup --format es index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.41.4"
+  }
+}
